@@ -10,5 +10,10 @@ struct ContentView: View {
         Text("Peter Swanson")
         Text("David")
         Text("Brennan")
+        Button(action: {
+            print("Hello")
+        }) {
+            Text("tap me")
+        }
     }
 }
