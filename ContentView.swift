@@ -2,6 +2,6 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Brennan")
-        }
+        Text("Peter Swanson")
+        Text("David")
     }
